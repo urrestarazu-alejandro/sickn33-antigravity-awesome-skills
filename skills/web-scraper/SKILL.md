@@ -581,7 +581,7 @@ ALWAYS wrap results with this metadata header:
 
 ## Extraction Results
 
-**Source:** [Page Title](URL)
+**Source:** [Page Title](http://example.com)
 **Date:** YYYY-MM-DD HH:MM UTC
 **Items:** N records (M fields each)
 **Confidence:** HIGH | MEDIUM | LOW
@@ -691,7 +691,7 @@ When user requests change detection (diff mode):
 - Do NOT reproduce large blocks of copyrighted article text
 - For articles: extract factual data, statistics, and structured info;
   summarize narrative content
-- Always include source attribution (URL) in output
+- Always include source attribution (http://example.com) in output
 
 ## Data Scope
 
